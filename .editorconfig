@@ -16,7 +16,7 @@ end_of_line = crlf
 indent_style = space
 indent_size = 2
 
-[*.{js,ts,css,vue,json}]
+[*.{js,ts,tsx,css,json}]
 indent_style = space
 indent_size = 2
 end_of_line = lf
